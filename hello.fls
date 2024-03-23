@@ -1,8 +1,8 @@
-PWD /Users/qsong/Documents/hello1
+PWD /Users/qsong/My Drive/github_wpi/hello1
 INPUT /usr/local/texlive/2022/texmf.cnf
 INPUT /usr/local/texlive/2022/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/qsong/Documents/hello1/hello.tex
+INPUT /Users/qsong/My Drive/github_wpi/hello1/hello.tex
 OUTPUT hello.log
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
